@@ -21,6 +21,10 @@ echo $instadl->get();
 
 Get Array result
 ```php
+// get Array result
 $instadl->download('YOUR_INSTAGRAM_POST_URL');
 print_r($instadl->getArray());
 ```
+
+### How Get Api Key?
+Please submit request to [Request Key](https://api.bayyu.net/contact)
